@@ -1,0 +1,3 @@
+QListWidget {
+  background: #DDDDDD;
+}
