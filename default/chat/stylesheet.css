@@ -1,32 +1,32 @@
-body {
+* {
   margin: 0px;
 }
 
-table {
-  border-collapse: collapse;
+.clear {
+  clear: both;
 }
 
-tr {
-  padding-bottom: 5px;
+div.message {
+  color: #472E20;
 }
 
-th {
-  border-right: 1px solid gray;
-  padding-right: 5px;
-  vertical-align: top;
-  background-color: #CCCCCC;
+span.timestamp {
+  float: left;
+  padding-right: 10px;
+  font-style: italic;
 }
 
-th.you {
-  font-weight: normal;
-  background-color: #FFFFFF;
+span.author {
+  float: left;
+  padding-right: 10px;
+  font-weight: bold;
 }
 
-td {
-  padding-left: 5px;
-  background-color: #CCCCCC;
+span.body {
+  float: left;
 }
 
-td.you {
-  background-color: #FFFFFF;
+div.message.you {
+  color: #215254;
+  background: #EEEEEE;
 }
