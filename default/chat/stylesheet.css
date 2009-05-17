@@ -30,3 +30,9 @@ div.message.you {
   color: #215254;
   background: #EEEEEE;
 }
+
+div.message.system {
+  color: white;
+  font-weight: bold;
+  background: red;
+}
