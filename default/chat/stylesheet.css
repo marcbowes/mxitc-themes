@@ -32,7 +32,6 @@ div.message.you {
 }
 
 div.message.system {
-  color: white;
-  font-weight: bold;
-  background: red;
+  color: #999999;
+  font-style: italic;
 }
