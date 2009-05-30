@@ -1,0 +1,234 @@
+Name=BlueScreenKids Pack
+Description= AIM GTalk ICQ MSN Yahoo Emoticons
+Icon=bsk.jpg
+Author=BlueScreenKid
+
+[Yahoo]
+yahoo-happy.gif			:)	:-)
+yahoo-sad.gif			:(	:-(
+yahoo-winking.gif		;)	;-)
+yahoo-biggrin.gif		:d	:D	:-d	:-D
+yahoo-battingeyelashes.gif	;;)	;;-)
+yahoo-bighug.gif		>:D<	>:-D<
+yahoo-confused.gif		:/	:-/
+yahoo-lovestruck.gif		:x	:-x
+yahoo-blushing.gif		:">	:"->
+yahoo-tongue.gif		:p	:P	:-p	:-P
+yahoo-kiss.gif			:*	:-*
+yahoo-brokenheart.gif		=((
+yahoo-surprise.gif		:o	:O	:-o	:-O
+yahoo-angry.gif			x(	X(	x-(	X-(
+yahoo-smug.gif			:>	:->
+yahoo-cool.gif			b)	B)	b-)	B-)
+yahoo-worried.gif		:s	:S	:-s	:-S
+yahoo-whew.gif			#:s	#:S	#:-s	#:-S
+yahoo-devil.gif			>:)	>:-)
+yahoo-crying.gif		:((	:-((
+yahoo-laughing.gif		:))	:-))
+yahoo-straightface.gif		:|	:-|
+yahoo-raisedeyebrow.gif		/:)	/:-)
+yahoo-rollingonthefloor.gif	=))
+yahoo-angel.gif			o:)	O:)	o:-)	O:-)
+yahoo-nerd.gif			:b	:B	:-b	:-B
+yahoo-talktothehand.gif		=;
+yahoo-callme.gif		:c	:-c
+yahoo-onthephone.gif 		:)]
+yahoo-atwitsend.gif		~x(	~X(	~x-(	~X-(
+yahoo-wave.gif			:h	:H	:-h	:-H
+yahoo-timeout.gif		:t	:-t
+yahoo-daydreaming.gif		8>	8->
+yahoo-sleepy.gif		|)	|-)
+yahoo-rollingeyes.gif		8|	8-|
+yahoo-loser.gif			l)	L)	l-)	L-)
+yahoo-sick.gif			:&	:-&
+yahoo-donttellanyone.gif	:$	:-$
+yahoo-nottalking.gif		[(	[-(
+yahoo-clown.gif			:o)	:O)
+yahoo-silly.gif			8}	8-}
+yahoo-party.gif			<:p	<:P	<:-p	<:-P
+yahoo-yawn.gif			(:|	(:-|
+yahoo-drooling.gif		=p~	=P~
+yahoo-thinking.gif		:?	:-?
+yahoo-doh.gif			#o	#O	#-o	#-O
+yahoo-applause.gif		=d>	=D>
+yahoo-nailbiting.gif		:ss	:SS	:-ss	:-SS
+yahoo-hypnotized.gif		@)	@-)
+yahoo-liar.gif			:^o	:^O
+yahoo-waiting.gif		:w	:W	:-w	:-W
+yahoo-sigh.gif			:<	:-<
+yahoo-phbbbbt.gif		>:p	>:P	>:-p	>:-P
+yahoo-cowboy.gif		<):)	<):-)
+yahoo-puppydigeyes.gif		:o3	:O3
+yahoo-idontknow.gif		:??	:-??
+yahoo-notlistening.gif		%(	%-(
+yahoo-pig.gif			:@)
+yahoo-cow.gif			3:o	3:O	3:-o	3:-O
+yahoo-monkey.gif		:(|)
+yahoo-chicken.gif		~:>	~:->
+yahoo-rose.gif			@};-
+yahoo-goodluck.gif		%%-
+yahoo-flag.gif			++==
+yahoo-pumpkin.gif		(~~)
+yahoo-coffee.gif		~o)	~O)
+yahoo-idea.gif			*-:)
+yahoo-skull.gif			8x	8X	8-x	8-X
+yahoo-bug.gif			=:)	=:-)
+yahoo-alien.gif			>)	>-)
+yahoo-frustrated.gif		:l	:L	:-l	:-L
+yahoo-praying.gif		[-o<	[-O<
+yahoo-moneyeyes.gif		$)	$-)
+yahoo-whistling.gif		:"	:-"
+yahoo-feelingbeatup.gif		b(	B(	b-(	B-(
+yahoo-peacesign.gif		:)>-
+yahoo-shameonyou.gif		[x	[X	[-x	[-X
+yahoo-dancing.gif		\\:d/	\\:D/
+yahoo-bringiton.gif		>:/	>:-/
+yahoo-heehee.gif		;))	;-))
+yahoo-chatterbox.gif		:@	:-@
+yahoo-notworthy.gif		^:)^	^:-)^
+yahoo-ohgoon.gif		:j	:J	:-j	:-J
+yahoo-star.gif			(*)
+yahoo-hiro.gif			o>	O>	o->	O->
+yahoo-billy.gif			o=>	O=>
+yahoo-april.gif			o+	O+	o-+	O-+
+yahoo-yinyang.gif		(%)
+
+[MSN]
+msn-smile.gif			:)	:-)
+msn-surprised.gif		:o	:O	:-o	:-O
+msn-wink.gif			;)	;-)
+msn-confused.gif		:s	:S	:-s	:-S
+msn-crying.gif			:'(	:'-(
+msn-hot.gif			(h)	(H)
+msn-angel.gif			(a)	(A)
+msn-donttellanyone.gif		:#	:-#
+msn-nerd.gif			8|	8-|
+msn-secrettelling.gif		:*	:-*
+msn-idontknow.gif		:^)
+msn-party.gif			<:o)	<:O)
+msn-sleepy.gif			|)	|-)
+msn-thumbsup.gif		(y)	(Y)
+msn-beermug.gif			(b)	(B)
+msn-girl.gif			(x)	(X)
+msn-lefthug.gif			({)
+msn-vampirebat.gif		:[	:-[
+msn-redheart.gif		(l)	(L)
+msn-redips.gif			(k)	(K)
+msn-redrose.gif			(f)	(F)
+msn-camera.gif			(p)	(P)
+msn-catface.gif			(@)
+msn-telephonereceiver.gif	(t)	(T)
+msn-note.gif			(8)
+msn-star.gif			(*)
+msn-clock.gif			(o)	(O)
+msn-snail.gif			(sn)	(SN)
+msn-plate.gif			(pl)	(PL)
+msn-pizza.gif			(pi)	(PI)
+msn-auto.gif			(au)	(AU)
+msn-umbrella.gif		(um)	(UM)
+msn-computer.gif		(co)	(CO)
+msn-stormycloud.gif		(st)	(ST)
+msn-money.gif			(mo)	(MO)
+msn-openmouthed.gif		:d	:D	:-d	:-D
+msn-tongueout.gif		:p	:P	:-p	:-P
+msn-sad.gif			:(	:-(
+msn-disappointed.gif		:|	:-|
+msn-embarrassed.gif		:$	:-$
+msn-angry.gif			:@	:-@
+msn-devil.gif			(6)
+msn-baringteeth.gif		8o|	8O|
+msn-sarcastic.gif		^o)	^O)
+msn-sick.gif			+o)	+O)
+msn-thinking.gif		*)	*-)
+eyerolling.gif			8)	8-)
+msn-coffeecup.gif		(c)	(C)
+msn-thumbsdown.gif		(n)	(N)
+msn-martiniglass.gif		(d)	(D)
+msn-boy.gif			(z)	(Z)
+msn-righthug.gif		(})
+msn-birthdaycake.gif		(^)
+msn-brokenheart.gif		(u)	(U)
+msn-giftwithabow.gif		(g)	(G)
+msn-wiltedrose.gif		(w)	(W)
+msn-filmstrip.gif		(~)
+msn-dogface.gif			(&)
+msn-lightbulb.gif		(i)	(I)
+msn-sleepinghalfmoon.gif	(s)	(S)
+msn-email.gif			(e)	(E)
+msn-msnmessengericon.gif	(m)	(M)
+msn-blacksheep.gif		(bah)	(BAH)
+msn-bowl.gif			(||)
+msn-soccerball.gif		(so)	(SO)
+msn-airplane.gif		(ap)	(AP)
+msn-islandwithpalmtree.gif	(ip)	(IP)
+msn-mobilephone.gif		(mp)	(MP)
+msn-lightning.gif		(li)	(LI)
+
+[AIM]
+aim-smiling.gif			:)	:-)
+aim-frowning.gif		:(	:-(
+aim-winking.gif			;)	;-)
+aim-stickingouttongue.gif	:p	:P	:-p	:-P
+aim-surprised.gif		=o	=O	=-o	=-O
+aim-kissing.gif			:*	:-*
+aim-yelling.gif			>:o	>:O	>:-o	>:-O
+aim-ecstatic.gif		:d	:D	:-d	:-D
+aim-moneymouth.gif		:$	:-$
+aim-footinmouth.gif		:!	:-!
+aim-embarrassed.gif		:[	:-[
+aim-innocent.gif		o:)	O:)	o:-)	O:-)
+aim-undecided.gif		:\\	:-\\
+aim-crying.gif			:'(
+aim-lipsaresealed.gif		:x	:X	:-x	:-X
+aim-cool.gif			8)	8-)
+
+[ICQ]
+icq-giggling.gif		:)	:-)	*giggling*	*GIGGLING*
+icq-sad.gif			:(	:-(
+icq-wink.gif			;)	;-)
+icq-drooling.gif		:p	:P	:-p	:-P	*drooling*	*DROOLING*
+icq-jokingly.gif		*jokingly*	*JOKINGLY*
+icq-whining.gif			:'(	:'-(	*whining*	*WHINING*
+icq-kissed.gif			*kissed*	*KISSED*
+icq-kiss.gif			:*	:-*
+icq-blush.gif			:[	:-[
+icq-angel.gif			o:)	O:)	o:-)	O:-)	o)	O)	o-)	O-)
+icq-quiet.gif			:x	:X	:-x	:-X
+icq-angry.gif			:\\	:-\\	:/	:-/
+icq-yell.gif			>:o	>:O	>:-o	>:-O
+icq-laughing.gif		:d	:D	:-d	:-D
+icq-smooth.gif			:$	:-S
+icq-shocked.gif			=o	=O	=-o	=-O	*shocked*	*SHOCKED*	*surprised*	*SURPRISED*
+icq-cool.gif			8)	8-)
+icq-music.gif			[:}	[:-}
+icq-tired.gif			*tired*	*TIRED*
+icq-sick.gif			:!	:-!
+icq-stop.gif			*stop*	*STOP*
+icq-kissing.gif			*kissing*	*KISSING*
+icq-devil.gif			]:>	]:->
+icq-flower.gif 			@}->--
+icq-bomb.gif			@=
+icq-thumbsup.gif		*thumbs\ up*	*THUMBS\ UP*
+icq-drink.gif			*drink*		*DRINK*
+icq-inlove.gif			*in\ love*	*IN\ LOVE*
+
+[XMPP]
+gtalk-heart.gif			<3
+gtalk-monkey.gif		:(|)
+gtalk-rockout.gif		\\m/
+gtalk-shocked.gif		:o	:O	:-o	:-O
+gtalk-grin.gif			:d	:D
+gtalk-frown.gif			:(	:-(
+gtalk-angry.gif			x(	x-(
+gtalk-cool.gif			b)	B)	b-)	B-)
+gtalk-cry.gif			:'(	:'-(
+gtalk-equalgrin.gif		=d	=D
+gtalk-wink.gif			;)
+gtalk-straightface.gif		:|	:-|
+gtalk-equalsmile.gif		=)
+gtalk-nosegrin.gif		:-d	:-D
+gtalk-winkbignose.gif		;^)
+gtalk-winknose.gif		;-)
+gtalk-nosesmile.gif		:)	:-)
+gtalk-slant.gif			:/	:-/
+gtalk-tongue.gif		:p	:P	:-p	:-P
