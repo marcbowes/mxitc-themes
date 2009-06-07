@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+}
+
+.clear {
+  clear: both;
+}
+
+div.message {
+  color: #000000;
+  line-height: 44px;
+}
+
+div.message.you {
+  color: #204E87;
+}
+
+div.message.system {
+  color: #999999;
+  font-style: italic;
+}
+
+span.timestamp {
+  float: left;
+  padding-right: 10px;
+  color: #CC172D;
+}
+
+span.timestamp.you {
+  color: #204E87;
+}
+
+span.timestamp.system {
+  color: #999999;
+  font-style: italic;
+}
+
+span.author {
+  float: left;
+  padding-right: 10px;
+  color: #CC172D;
+  font-weight: bold;
+}
+
+span.author.you {
+  color: #204E87;
+}
+
+span.author.system {
+  color: #999999;
+  font-style: italic;
+}
+
+span.body {
+  float: left;
+}
+
